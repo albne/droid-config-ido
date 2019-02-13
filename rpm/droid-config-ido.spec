@@ -4,8 +4,8 @@
 %define device ido
 %define vendor xiaomi
 
-%define vendor_pretty XIAOMI
-%define device_pretty Redmi 3
+%define vendor_pretty xiaomi
+%define device_pretty redmi 3
 
 # Community HW adaptations need this
 %define community_adaptation 1
